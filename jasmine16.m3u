@@ -1,0 +1,501 @@
+#EXTM3U
+#EXTINF:-1,France
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="Religious",3ABN Français (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/KGOTVABC7.png" group-title="Local",ABC 7 San Francisco CA (KGO-TV) (720p)
+https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
+#EXTINF:-1 group-title="News",AfricaNews Français (720p)
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Entertainment",ARTE Français (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Kids",Boing France (720p) [Not 24/7]
+http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
+#EXTINF:-1,CGTN Français (720p)
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews Français (720p)
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png" group-title="General",France 2 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png" group-title="General",France 3 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png" group-title="General",France 5 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic (1080p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English (576p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvrvwtm.png",Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Francophonie24_275x275.png?raw=true",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen (1080p)
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media-usba.mybtv.net/logos/20.1-KOFY.png" group-title="Local",KOFY-DT1 San Francisco CA (720p)
+https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8KRwBz.png" group-title="Local",Local Now San Francisco CA (720p) [Geo-blocked]
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/caSanFrancisco/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/KRON_4_Main_Logo.svg/1920px-KRON_4_Main_Logo.svg.png" group-title="Local",myTV 4 San Francisco Bay Area CA (KRON-TV) (720p) [Not 24/7]
+https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="General",PBS San Francisco CA (KQED) (1080p) [Geo-blocked]
+https://kqeddt.lls.cdn.pbs.org/kqeddt/1978f5fc-903b-44c5-8db4-76335078ea74/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France (1080p)
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade France (1080p)
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="General",TV5Monde Francia FR (1080p)
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",TV Mainfranken (1080p)
+https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TV Oberfranken (1080p)
+https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
+#EXTINF:-1,===== France =====
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1200
+#EXTINF:-1,FR: TF1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/363
+#EXTINF:-1,FR: TFX
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17301
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17300
+#EXTINF:-1,FR: FRANCE 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/370
+#EXTINF:-1,FR: FRANCE 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/369
+#EXTINF:-1,FR: FRANCE 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/368
+#EXTINF:-1,FR: FRANCE 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/367
+#EXTINF:-1,FR: FRANCE O
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/366
+#EXTINF:-1,FR: ARTE HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1072
+#EXTINF:-1,FR: M6 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/365
+#EXTINF:-1,FR: W9 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/362
+#EXTINF:-1,FR: W9
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9935
+#EXTINF:-1,FR: 6 TER HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12013
+#EXTINF:-1,FR: CANAL+ HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/361
+#EXTINF:-1,FR: CANAL+ DECALE
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/359
+#EXTINF:-1,FR: CANAL+ KIDS
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/358
+#EXTINF:-1,FR: CANAL+ CINEMA
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5897
+#EXTINF:-1,FR: CANAL+ SERIES
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/357
+#EXTINF:-1,FR: CANAL+ SPORT
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/356
+#EXTINF:-1,FR: BEINSPORT 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/14140
+#EXTINF:-1,FR: BEINSPORT 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/347
+#EXTINF:-1,FR: BEINSPORT 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/346
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2515
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2516
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2517
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2518
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2519
+#EXTINF:-1,FR: BEINSPORT MAX 9
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2520
+#EXTINF:-1,FR: BEINSPORT MAX 10
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2521
+#EXTINF:-1,FR: FOOT+24 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1244
+#EXTINF:-1,FR: EUROSPORT 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/345
+#EXTINF:-1,FR: EUROSPORT 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/344
+#EXTINF:-1,FR: L'equipe 21 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1068
+#EXTINF:-1,FR: 13EME RUE HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3759
+#EXTINF:-1,FR: 6TER HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2608
+#EXTINF:-1,FR: AB 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/10356
+#EXTINF:-1,FR: AB MOTEUR
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3758
+#EXTINF:-1,FR: ACTION HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/349
+#EXTINF:-1,FR: Animaux HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/642
+#EXTINF:-1,FR: Baby HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12526
+#EXTINF:-1,FR: BBLACK AFRICA
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18641
+#EXTINF:-1,FR: BBLACK Classic
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18642
+#EXTINF:-1,FR: MDL HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2607
+#EXTINF:-1,FR: BERBERE JEUNESSE
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16438
+#EXTINF:-1,FR: BERBERE MUSIC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16439
+#EXTINF:-1,FR: BERBERE TELEVISION
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3778
+#EXTINF:-1,FR: BET HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2620
+#EXTINF:-1,FR: BFM Paris HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3780
+#EXTINF:-1,FR: BFM TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2763
+#EXTINF:-1,FR: BOING
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2623
+#EXTINF:-1,FR: Boomerang
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2622
+#EXTINF:-1,FR: BRAVA HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18648
+#EXTINF:-1,FR: BREIZH TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2609
+#EXTINF:-1,FR: C NEWS HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16097
+#EXTINF:-1,FR: C news SD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1069
+#EXTINF:-1,FR: C star HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2764
+#EXTINF:-1,FR: C8 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2765
+#EXTINF:-1,FR: Canal Alpha
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12528
+#EXTINF:-1,FR: CANAL J
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2619
+#EXTINF:-1,FR: Cartoon Network
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2621
+#EXTINF:-1,FR: Chasse & Peche
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12522
+#EXTINF:-1,FR: CHERIE 25 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3761
+#EXTINF:-1,FR: CINE CLUB
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12523
+#EXTINF:-1,FR: CINE+ CLASSIC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2612
+#EXTINF:-1,FR: CINE+ EMOTION
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/352
+#EXTINF:-1,FR: CINE+ FAMIZ
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2611
+#EXTINF:-1,FR: CINE+ FRISSON
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/351
+#EXTINF:-1,FR: CINE+ POLAR
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2610
+#EXTINF:-1,FR: CINE+ PREMIER
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/350
+#EXTINF:-1,FR: Clubbing TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12529
+#EXTINF:-1,FR: Comedie+ HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2604
+#EXTINF:-1,FR: DISCOVERY
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/355
+#EXTINF:-1,FR: Discovery Science HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/646
+#EXTINF:-1,FR: Disney Channel HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/645
+#EXTINF:-1,FR: DISNEY CINEMAGIC HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3763
+#EXTINF:-1,FR: Disney Junior
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2624
+#EXTINF:-1,FR: DISNEY XD HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3764
+#EXTINF:-1,FR: E! HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7684
+#EXTINF:-1,FR: Euro Channel FHD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16099
+#EXTINF:-1,FR: EQUIDIA LIVE
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3771
+#EXTINF:-1,FR: EURONEWS
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/8255
+#EXTINF:-1,FR: Extreme Sport HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18655
+#EXTINF:-1,FR: FRANCE 24
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7867
+#EXTINF:-1,FR: Game One
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9113
+#EXTINF:-1,FR: GOLF Channel HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16109
+#EXTINF:-1,FR: GOLF+ HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7834
+#EXTINF:-1,FR: BFM Lyon
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12525
+#EXTINF:-1,FR: GongMax
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18667
+#EXTINF:-1,FR: GRAND LILLE
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18660
+#EXTINF:-1,FR: Gulli
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2625
+#EXTINF:-1,FR: MOODS TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2766
+#EXTINF:-1,FR: Histoire
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1070
+#EXTINF:-1,FR: i24 News
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9015
+#EXTINF:-1,FR: BFM Business TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18640
+#EXTINF:-1,FR: IL TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18636
+#EXTINF:-1,FR: InfoSport+ HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/342
+#EXTINF:-1,FR: J-ONE HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3779
+#EXTINF:-1,FR: KTO
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3777
+#EXTINF:-1,FR: LA CHAINE METEO HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18666
+#EXTINF:-1,FR: La Chaine Normande
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12524
+#EXTINF:-1,FR: LCI HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9112
+#EXTINF:-1,FR: LCP HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3776
+#EXTINF:-1,FR: Leman Bleu TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18659
+#EXTINF:-1,FR: Lucky Jack TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18650
+#EXTINF:-1,FR: M6 MUSIC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3775
+#EXTINF:-1,FR: MANGAS HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/341
+#EXTINF:-1,FR: MCM HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/31445
+#EXTINF:-1,FR: MCM POP
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12530
+#EXTINF:-1,FR: MTV Hits
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3774
+#EXTINF:-1,FR: NAT GEO HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/336
+#EXTINF:-1,FR: Nat Geo Wild HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9815
+#EXTINF:-1,FR: NICKELODEON
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7712
+#EXTINF:-1,FR: NICKELODEON JR
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7713
+#EXTINF:-1,FR: NRJ12 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/364
+#EXTINF:-1,FR: France 3 NOA HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/340
+#EXTINF:-1,FR: NUMERO 23 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3762
+#EXTINF:-1,FR: OCS CHOC HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3769
+#EXTINF:-1,FR: OCS CITY HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2613
+#EXTINF:-1,FR: OCS GEANTS HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3768
+#EXTINF:-1,FR: OCS MAX HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3767
+#EXTINF:-1,FR: OL TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18645
+#EXTINF:-1,FR: OM TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18678
+#EXTINF:-1,FR: ONE TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18637
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3770
+#EXTINF:-1,FR: Paris Premiere HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1066
+#EXTINF:-1,FR: PIWI  HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/339
+#EXTINF:-1,FR: Planet HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/10594
+#EXTINF:-1,FR: Planete  A&E HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/644
+#EXTINF:-1,FR: PLANETE CI
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/353
+#EXTINF:-1,FR: RMC Decouverte
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3766
+#EXTINF:-1,FR: Rouge TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18664
+#EXTINF:-1,FR: RTL9
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2601
+#EXTINF:-1,FR: RTS DEUX HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2767
+#EXTINF:-1,FR: RTS UN HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2768
+#EXTINF:-1,FR: Sciences & Vie TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/643
+#EXTINF:-1,FR: Season HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3773
+#EXTINF:-1,FR: Serie Club HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2605
+#EXTINF:-1,FR: Sundance TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18661
+#EXTINF:-1,FR: SYFY HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3760
+#EXTINF:-1,FR: TCM Cinema
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12527
+#EXTINF:-1,FR: TeleGrenoble Isere
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18646
+#EXTINF:-1,FR: Teva HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2602
+#EXTINF:-1,FR: TIJI
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3765
+#EXTINF:-1,FR: TMC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2769
+#EXTINF:-1,FR: TMC HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2606
+#EXTINF:-1,FR: Toute l Histoire HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2770
+#EXTINF:-1,FR: Trek HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1065
+#EXTINF:-1,FR: TV 5 Monde HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/8256
+#EXTINF:-1,FR: TV5 MONDE HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3772
+#EXTINF:-1,FR: TV78
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18665
+#EXTINF:-1,FR: TV7 Colmar
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18654
+#EXTINF:-1,FR: TV8 MontBlanc HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18651
+#EXTINF:-1,FR: TVM 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18635
+#EXTINF:-1,FR: Ushuaia HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/337
+#EXTINF:-1,FR: VOSGUE TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/18653
+#EXTINF:-1,FR: VOYAGE HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2771
+#EXTINF:-1,FR: Canal Play 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2614
+#EXTINF:-1,FR: Canal Play 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2615
+#EXTINF:-1,FR: Canal Play 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2616
+#EXTINF:-1,FR: Canal Play 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2617
+#EXTINF:-1,FR: Canal Play 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2618
+#EXTINF:-1,FR: A LA CARTE 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3345
+#EXTINF:-1,FR: A LA CARTE 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3346
+#EXTINF:-1,FR: A LA CARTE 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3347
+#EXTINF:-1,FR: A LA CARTE 4
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3348
+#EXTINF:-1,FR: A LA CARTE 5
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3349
+#EXTINF:-1,FR: A LA CARTE 6
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3350
+#EXTINF:-1,FR: A LA CARTE 7
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3351
+#EXTINF:-1,FR: A LA CARTE 8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3352
+#EXTINF:-1,FR: A LA CARTE 9
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3353
+#EXTINF:-1,FR: A LA CARTE 10
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3354
+#EXTINF:-1,FR: BTV MOVIES 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42802
+#EXTINF:-1,FR: BTV MOVIES 2 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42803
+#EXTINF:-1,FR: BTV MOVIES 3 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42804
+#EXTINF:-1,FR: BTV MOVIES 4 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42805
+#EXTINF:-1,FR: BTV MOVIES 5 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42806
+#EXTINF:-1,FR: BTV MOVIES 6 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42807
+#EXTINF:-1,FR: BTV MOVIES 7 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42808
+#EXTINF:-1,FR: BTV MOVIES 8 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42809
+#EXTINF:-1,FR: BTV MOVIES 9 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/42810
+#EXTINF:-1,FR: Alsace TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34926
+#EXTINF:-1,FR: Antenne Reunion
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34936
+#EXTINF:-1,FR: Bblack! Caribbean
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34930
+#EXTINF:-1,FR: BIP TV (Berry Issoudun Premiere)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34923
+#EXTINF:-1,FR: CPAC HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34929
+#EXTINF:-1,FR: FASHION MIDNITE FHD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34928
+#EXTINF:-1,FR: Francophonie 24
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34932
+#EXTINF:-1,FR: ILTV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34937
+#EXTINF:-1,FR: France Info HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34939
+#EXTINF:-1,FR: MATELE TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34925
+#EXTINF:-1,FR: RT France HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34931
+#EXTINF:-1,FR: Tebeo TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34933
+#EXTINF:-1,FR: TVFIL78
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34938
+#EXTINF:-1,FR: TVPi
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34935
+#EXTINF:-1,FR: TVR TV Rennes 35
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34924
+#EXTINF:-1,FR: VIA Vosgues TV HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34927
+#EXTINF:-1,FR: via Occitanie TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/34934
+#EXTINF:-1,FR: NJR Radio
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16373
+#EXTINF:-1,FR: Cherie
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16377
+#EXTINF:-1,FR: France Inter
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16374
+#EXTINF:-1,FR: Rire & Chansons
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16376
+#EXTINF:-1,FR: RTL
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16375
+#EXTINF:-1,DE: TV OBERFRANKEN HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/35282
+#EXTINF:-1,DE: TV HD Mainfranken Würzburg
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/35307
+#EXTINF:-1,DE: TV HD Oberfranken
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/35308
+#EXTINF:-1,RUS: Friday HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21524
+#EXTINF:-1,RUS: RTI free people
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/10512
+#EXTINF:-1,RUS: FRANCE24
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/31583
+#EXTINF:-1,=== African ===
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1426
+#EXTINF:-1,AF: Africa News EN
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26283
+#EXTINF:-1,AF: Africa News FR
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26282
+#EXTINF:-1,AF: AFRICABLE TV Mali
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26279
+#EXTINF:-1,AF: Afrique Media Cameroon
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26273
+#EXTINF:-1,AF: ANN7 (sud africa)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/11523
+#EXTINF:-1,AF: ORTM AFRICA
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3805
+#EXTINF:-1,AF: RTS 1 AFRICA
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3807
+#EXTINF:-1,AF: TRACE AFRICA
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26263
+#EXTINF:-1,AF: Vox Africa
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7606
+#EXTINF:-1,AF: West Africa TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/26272
+#EXTINF:-1,KRD: FREEDOM TV
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/8365
